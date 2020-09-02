@@ -1,1 +1,1 @@
-Python scripts I used for my Master's thesis on cyberbullying. Data collected via YikYak and Twitter's API and manually trained to feed in an SVM model. The texts were vectorized using tfidf.
+Python scripts I used for my Master's thesis on cyberbullying. Textual data collected via YikYak and Twitter's API and manually trained to feed into an SVM model in order to distinguish bullying content from non-bullying content. Results outperform a Bayesian model and are mapped using ArcMap 10.5. The texts were vectorized using tfidf.
